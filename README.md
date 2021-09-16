@@ -4,7 +4,6 @@
 1. [AutoML Machine Learning-Methods, Systems, Challenges-2018.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/AutoML%20Machine%20Learning-Methods%2C%20Systems%2C%20Challenges-2018.pdf)
 1. [Building Machine Learning Systems with Python-2nd Edition-2015.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Building%20Machine%20Learning%20Systems%20with%20Python-2nd%20Edition-2015.pdf)
 1. [Data Mining, Inference, and Prediction-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Data%20Mining%2C%20Inference%2C%20and%20Prediction-2017.pdf)
-1. [Data Science from Scratch- First Principles with Python-2015.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Data%20Science%20from%20Scratch-%20First%20Principles%20with%20Python-2015.pdf)
 1. [Deep Learning with Keras-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Keras-2017.pdf)
 1. [Deep Learning with Python A Hands-on Introduction-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20with%20Python%20A%20Hands-on%20Introduction-2017.pdf)
 1. [Deep Learning With Python-Develop Deep Learning Models on Theano and TensorFlow Using Keras-2017.pdf](1.%20Machine%20Leaning%20and%20Deep%20Learning/Deep%20Learning%20With%20Python-Develop%20Deep%20Learning%20Models%20on%20Theano%20and%20TensorFlow%20Using%20Keras-2017.pdf)
